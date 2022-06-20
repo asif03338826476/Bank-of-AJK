@@ -1,0 +1,9 @@
+@tailwind base;
+* {
+  font-size: 1.1rem;
+}
+.carasolBtn {
+  display: block;
+}
+@tailwind components;
+@tailwind utilities;
